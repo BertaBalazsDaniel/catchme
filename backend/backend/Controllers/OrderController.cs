@@ -72,6 +72,16 @@ namespace backend.Controllers
                 return BadRequest("Order értéke null.");
             }
 
+            if (string.IsNullOrWhiteSpace(newOrder.OrderStatus))
+            {
+                newOrder.OrderStatus = OrderStatuses.Függőben.ToString();
+            }
+
+            if (string.IsNullOrWhiteSpace(newOrder.PaymentStatus))
+            {
+                newOrder.PaymentStatus = PaymentStatuses.Fizetve.ToString();
+            }
+
             newOrder.OrderDate = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             newOrder.PaymentDate = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
 

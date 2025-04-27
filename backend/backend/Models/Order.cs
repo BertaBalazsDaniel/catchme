@@ -34,7 +34,7 @@ namespace backend.Models
         public string PhoneNumber { get; set; }
         public string OrderDate { get; set; } = DateTime.Now.ToLongDateString();
         public int TotalAmount { get; set; }
-        public string PaymentStatus { get; set; } = PaymentStatuses.Függőben.ToString();
+        public string PaymentStatus { get; set; } = PaymentStatuses.Fizetve.ToString();
         public string PayPalTransactionId { get; set; }
         public string PaymentDate { get; set; } = DateTime.Now.ToLongDateString();
 
