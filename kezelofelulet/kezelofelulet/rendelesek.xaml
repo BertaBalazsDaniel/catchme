@@ -1,0 +1,73 @@
+﻿<Window x:Class="kezelofelulet.rendelesek"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kezelofelulet"
+        mc:Ignorable="d"
+        Title="Rendelések" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Rendelések" FontSize="24" FontWeight="Bold" Foreground="#333" Margin="10"/>
+
+        <Grid Grid.Row="1" Margin="0,10,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <ListView x:Name="listView" Grid.Column="0" Margin="10" Background="White" BorderBrush="#CCC" BorderThickness="1" SelectionChanged="listView_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Rendelés ID" DisplayMemberBinding="{Binding Id}"/>
+                        <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}"/>
+                        <GridViewColumn Header="Rendelés Státusz" DisplayMemberBinding="{Binding OrderStatus}"/>
+                        <GridViewColumn Header="Fizetés Státusz" DisplayMemberBinding="{Binding PaymentStatus}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <StackPanel Grid.Column="1" Margin="20">
+                <TextBlock Text="Megrendelő neve:" FontWeight="Bold"/>
+                <TextBox x:Name="userBox" Background="WhiteSmoke" TextChanged="joe" IsEnabled="False"/>
+
+                <TextBlock Text="Megrendelő email címe:" FontWeight="Bold"/>
+                <TextBox x:Name="emailbox" Background="WhiteSmoke" TextChanged="joe" IsEnabled="False"/>
+                
+                <TextBlock Text="Megrendelő címe:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <TextBox x:Name="cimBox" Background="WhiteSmoke" TextChanged="joe" IsEnabled="False"/>
+
+                <TextBlock Text="Megrendelő telefonszáma:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <TextBox x:Name="telBox" Background="WhiteSmoke" TextChanged="joe" IsEnabled="False"/>
+
+                <TextBlock Text="Összeg:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <TextBox x:Name="amountBox" Background="WhiteSmoke" IsEnabled="False"/>
+
+                <TextBlock Text="Rendelés státusza:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <ComboBox x:Name="rendstatusz" Background="WhiteSmoke" IsEnabled="False" SelectionChanged="rendstatusz_SelectionChanged" />
+
+                <TextBlock Text="Rendelés ideje:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <TextBox x:Name="orderTimeBox" Background="WhiteSmoke" IsEnabled="False"/>
+
+                <TextBlock Text="Fizetés státusza:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <ComboBox x:Name="fizstatusz" Background="WhiteSmoke" IsEnabled="False" />
+
+                <TextBlock Text="Tranzakció azonosítója:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <TextBox x:Name="transactionid" Background="WhiteSmoke" IsEnabled="False"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" >
+            <Button x:Name="mod" Content="Módosítás" Width="100" Background="#0078D7" Foreground="White" Click="mod_Click" IsEnabled="False"/>
+            <Button x:Name="del" Content="Törlés" Width="100" Background="#DC3545" Foreground="White" Click="del_Click" IsEnabled="False"/>
+            <Button x:Name="select" Content="Kiválasztás törlése" Width="150" Background="#6C757D" Foreground="White" Click="select_Click"/>
+            <Button x:Name="label" Content="Vissza" Width="100" Background="#343A40" Foreground="White" Click="button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,493 @@
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\hm_info2005a1\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\Lenovo\Desktop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe.config
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe.config
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe.config
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\hm_info2005a1\Desktop\bmashop-main\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe.config
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.g.cs
+C:\Users\hm_info2005a1\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.baml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe.config
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.baml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\Lenovo\Desktop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe.config
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\bb_info2005a1\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.g.cs
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.g.cs
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.g.cs
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\App.g.cs
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.cache
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet_MarkupCompile.lref
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kategoriak.baml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.exe
+C:\Users\Lenovo\Documents\GitHub\bmashop\kezelofelulet (2)\kezelofelulet\obj\Debug\kezelofelulet.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe.config
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.exe
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\kezelofelulet.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Zstandard.Net.dll
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.pdb
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Google.Protobuf.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\Renci.SshNet.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Buffers.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Memory.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kategoriak.g.cs
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kategoriak.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\MainWindow.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\rendelesek.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\termekek.baml
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.g.resources
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.Properties.Resources.resources
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.GenerateResource.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CoreCompileInputs.cache
+C:\Users\bbala\Desktop\bmashop\kezelofelulet\kezelofelulet\obj\Debug\kezelofelulet.csproj.CopyComplete
