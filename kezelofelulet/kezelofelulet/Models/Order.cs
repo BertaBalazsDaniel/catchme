@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
@@ -9,20 +10,28 @@ namespace kezelofelulet.Models
 {
     public enum OrderStatuses
     {
+        [Description("Függőben")]
         Függőben,
+        [Description("Teljesítve")]
         Teljesítve,
+        [Description("Törölve")]
         Törölve,
-        [EnumMember(Value = "Feldolgozás alatt")]
-        FeldolgozasAlatt,
+        [Description("Feldolgozás alatt")]
+        FeldolgozasAlatt
     }
 
     public enum PaymentStatuses
     {
+        [Description("Függőben")]
         Függőben,
+        [Description("Fizetve")]
         Fizetve,
+        [Description("Sikertelen")]
         Sikertelen,
+        [Description("Visszatérítve")]
         Visszatérítve
     }
+
 
     public class Order
     {

@@ -309,7 +309,7 @@ CREATE TABLE `orders` (
 --
 
 INSERT INTO `orders` (`Id`, `UserId`, `FullName`, `Email`, `OrderStatus`, `AddressLine`, `PhoneNumber`, `OrderDate`, `TotalAmount`, `PaymentStatus`, `PayPalTransactionId`, `PaymentDate`) VALUES
-(1, 2, 'Szandi Viktória', 'szandi7@gmail.com', '', 'HU, 9600 Sárvár, Kazinczy Ferenc 11', '+36301234567', '2025-04-26 18:52:37', 317280, '', '3G666999NC902824R', '2025-04-26 18:52:37');
+(1, 2, 'Szandi Viktória', 'szandi7@gmail.com', 'Függőben', 'HU, 9600 Sárvár, Kazinczy Ferenc 11', '+36301234567', '2025-04-26 18:52:37', 317280, 'Fizetve', '3G666999NC902824R', '2025-04-26 18:52:37');
 
 -- --------------------------------------------------------
 

@@ -13,6 +13,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.ComponentModel;
+using System.Reflection;
 
 namespace kezelofelulet
 {
@@ -20,6 +22,40 @@ namespace kezelofelulet
     /// Interaction logic for rendelesek.xaml
     /// </summary>
     /// 
+    public static class EnumHelper
+    {
+        public static string GetEnumDescription(Enum value)
+        {
+            FieldInfo fi = value.GetType().GetField(value.ToString());
+            if (fi != null)
+            {
+                var attributes = (DescriptionAttribute[])fi.GetCustomAttributes(typeof(DescriptionAttribute), false);
+                if (attributes != null && attributes.Length > 0)
+                    return attributes[0].Description;
+            }
+            return value.ToString();
+        }
+
+        public static T GetEnumValueFromDescription<T>(string description)
+        {
+            var type = typeof(T);
+            if (!type.IsEnum) throw new InvalidOperationException();
+            foreach (var field in type.GetFields())
+            {
+                var attribute = Attribute.GetCustomAttribute(field, typeof(DescriptionAttribute)) as DescriptionAttribute;
+                if (attribute != null)
+                {
+                    if (attribute.Description == description)
+                        return (T)field.GetValue(null);
+                }
+
+                if (field.Name == description)
+                    return (T)field.GetValue(null);
+            }
+            throw new ArgumentException("Nem található enum érték ezzel a leírással: " + description);
+        }
+    }
+
     public partial class rendelesek : Window
     {
         public rendelesek()
@@ -44,15 +80,16 @@ namespace kezelofelulet
 
         public void combokfel()
         {
-            string[] ostatus = { "Függőben", "Teljesítve", "Törölve", "Feldolgozás alatt" };
-            foreach (var item in ostatus)
+            rendstatusz.Items.Clear();
+            foreach (OrderStatuses status in Enum.GetValues(typeof(OrderStatuses)))
             {
-                rendstatusz.Items.Add(item);
+                rendstatusz.Items.Add(EnumHelper.GetEnumDescription(status));
             }
-            string[] fstatus = { "Függőben", "Fizetve", "Sikertelen", "Visszatérítve" };
-            foreach (var item in fstatus)
+
+            fizstatusz.Items.Clear();
+            foreach (PaymentStatuses status in Enum.GetValues(typeof(PaymentStatuses)))
             {
-                fizstatusz.Items.Add(item);
+                fizstatusz.Items.Add(EnumHelper.GetEnumDescription(status));
             }
         }
 
@@ -108,12 +145,12 @@ namespace kezelofelulet
 
                         userBox.Text = res.FullName;
                         emailbox.Text = res.Email;
-                        rendstatusz.SelectedItem = res.OrderStatus;
                         cimBox.Text = res.AddressLine;
                         telBox.Text = res.PhoneNumber.ToString();
                         orderTimeBox.Text = res.OrderDate.ToString();
                         amountBox.Text = res.TotalAmount.ToString();
-                        fizstatusz.SelectedItem = res.PaymentStatus;
+                        rendstatusz.SelectedItem = EnumHelper.GetEnumDescription(EnumHelper.GetEnumValueFromDescription<OrderStatuses>(res.OrderStatus));
+                        fizstatusz.SelectedItem = EnumHelper.GetEnumDescription(EnumHelper.GetEnumValueFromDescription<PaymentStatuses>(res.PaymentStatus));
                         transactionid.Text = res.PayPalTransactionId.ToString();
                     }
                 }
@@ -141,12 +178,16 @@ namespace kezelofelulet
                         {
                             rendeles.FullName = userBox.Text;
                             rendeles.Email = emailbox.Text;
-                            rendeles.OrderStatus = rendstatusz.SelectedItem.ToString();
                             rendeles.AddressLine = cimBox.Text;
                             rendeles.PhoneNumber = telBox.Text;
                             rendeles.OrderDate = orderTimeBox.Text;
                             rendeles.TotalAmount = int.Parse(amountBox.Text);
-                            rendeles.PaymentStatus = fizstatusz.SelectedItem.ToString();
+                            rendeles.OrderStatus = EnumHelper.GetEnumDescription(
+                                EnumHelper.GetEnumValueFromDescription<OrderStatuses>(rendstatusz.SelectedItem.ToString())
+                            );
+                            rendeles.PaymentStatus = EnumHelper.GetEnumDescription(
+                                EnumHelper.GetEnumValueFromDescription<PaymentStatuses>(fizstatusz.SelectedItem.ToString())
+                            );
                             rendeles.PayPalTransactionId = transactionid.Text;
                             ctx.SaveChanges();
                         }
@@ -202,14 +243,12 @@ namespace kezelofelulet
                         string currentAddress = cimBox.Text.Trim();
                         string currentPhone = telBox.Text.Trim();
                         string currentOrderStatus = rendstatusz.SelectedItem?.ToString();
-                        string currentPaymentStatus = fizstatusz.SelectedItem?.ToString();
 
                         if (currentFullName != original.FullName ||
                             currentEmail != original.Email ||
                             currentAddress != original.AddressLine ||
                             currentPhone != original.PhoneNumber ||
-                            currentOrderStatus != original.OrderStatus ||
-                            currentPaymentStatus != original.PaymentStatus)
+                            currentOrderStatus != original.OrderStatus)
                         {
                             isModified = true;
                         }
