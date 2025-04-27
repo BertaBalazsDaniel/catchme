@@ -84,6 +84,8 @@ namespace kezelofelulet
                 cimBox.IsEnabled = false;
                 telBox.IsEnabled = false;
                 rendstatusz.IsEnabled = false;
+                rendstatusz.SelectedIndex = -1;
+                fizstatusz.SelectedIndex = -1;
             }
             else
             {
