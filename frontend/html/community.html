@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CatchMe - Közösségi Felület</title>
+    <link rel="stylesheet" href="../css/shop.css">
+    <link rel="stylesheet" href="../css/menu.css">
+    <link rel="stylesheet" href="../css/community.css">
+</head>
+<body>
+    <header>
+        <h1>Közösségi Felület</h1>
+    </header>
+    <div class="main">
+        <div>
+            <nav id="sidebar">
+                <ul>
+                    <li>
+                        <span class="logo">Menu</span>
+                        <button onclick=toggleSidebar() id="toggle-btn">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e8eaed">
+                                <path d="m313-480 155 156q11 11 11.5 27.5T468-268q-11 11-28 11t-28-11L228-452q-6-6-8.5-13t-2.5-15q0-8 2.5-15t8.5-13l184-184q11-11 27.5-11.5T468-692q11 11 11 28t-11 28L313-480Zm264 0 155 156q11 11 11.5 27.5T732-268q-11 11-28 11t-28-11L492-452q-6-6-8.5-13t-2.5-15q0-8 2.5-15t8.5-13l184-184q11-11 27.5-11.5T732-692q11 11 11 28t-11 28L577-480Z"/>
+                            </svg>
+                        </button>
+                    </li>
+                    <li class="active">
+                        <a href="shop.html">
+                            <img src="resources/svg/shop.svg" alt="Ikon" width="24" height="24">
+                            <span>Webshop</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="order.html">
+                            <img src="resources/svg/order.svg" alt="Icon" width="24" height="24">
+                            <span>Rendeléseim</span>
+                        </a>
+                    </li>
+                    <li>
+                        <button onclick=toggleSubMenu(this) class="dropdown-btn">
+                            <img src="resources/svg/menu.svg" alt="Icon" width="24" height="24">
+                            <span>Közösség</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e8eaed">
+                                <path d="M480-361q-8 0-15-2.5t-13-8.5L268-556q-11-11-11-28t11-28q11-11 28-11t28 11l156 156 156-156q11-11 28-11t28 11q11 11 11 28t-11 28L508-372q-6 6-13 8.5t-15 2.5Z"/>
+                            </svg>
+                        </button>
+                        <ul class="sub-menu">
+                            <div>
+                                <li id="menu-catches">
+                                    <a href="community.html?category=Fogások" class="dynamic-link">
+                                        <img src="resources/svg/fish.svg" alt="Icon" width="24" height="24">
+                                        <span>Fogások</span>
+                                    </a>
+                                </li>
+                                <li id="menu-tips">
+                                    <a href="community.html?category=Tippek">
+                                        <img src="resources/svg/tip.svg" alt="Icon" width="24" height="24">
+                                        <span>Tippek</span>
+                                    </a>
+                                </li>
+                                <li id="menu-fishing-spots">
+                                    <a href="community.html?category=Horgászhelyek">
+                                        <img src="resources/svg/place.svg" alt="Icon" width="24" height="24">
+                                        <span>Horgászhelyek</span>
+                                    </a>
+                                </li>
+                            </div>
+                        </ul>
+                    </li>
+                    <li>
+                        <a  id="currentUserPage">
+                            <img src="resources/svg/user.svg" alt="Icon" width="24" height="24">
+                            <span>Profilom</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="authorisation.html">
+                            <img src="resources/svg/logout.svg" alt="Icon" width="24" height="24">
+                            <span>Kijelentkezés</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </nav>
+        </div>
+        <div class="post-container">
+            <button id="openPostAddModal" class="add-post-button" style="display: none;">+</button>
+        
+            <div id="postAddModal" class="modal hidden">
+                <div class="modal-content">
+                    <div class="post-form">
+                    <h2>Új bejegyzés létrehozása</h2>
+                    <form id="postForm">
+                        <textarea id="postContent" placeholder="Írj valamit..." required></textarea>
+                        <input id="postImage" type="file" accept="image/*" />
+                        <button type="submit">Bejegyzés küldése</button>
+                    </form>
+                </div>
+                </div>
+            </div>
+        
+            <div id="communityPostContainer">
+                
+            </div>
+            <button id="loadMoreBtn" onclick="loadMorePosts()" style="display: none;">További bejegyzések betöltése</button>
+            <div id="communityPostModal" class="modal hidden">
+                <div class="modal-content">
+                    <div id="modalPostContent"></div>
+                </div>
+            </div>     
+        </div>
+        
+    </div>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>Kapcsolat</h3>
+                <p>Email: bmashop@gmail.com</p>
+                <p>Telefon: +36 30 136 9743</p>
+                <p>Sárvár, Magyarország</p>
+            </div>
+            <div class="footer-section">
+                <h3>Rólunk</h3>
+                <p>Minőségi termékeket kínálunk elérhető áron, gyors szállítással és kiváló ügyfélszolgálattal. Célunk, hogy vásárlóink mindig elégedettek legyenek!</p>
+                <br>
+                <p><em>"A minőség nem luxus, hanem alapvetés!"</em></p>
+            </div>
+            <div class="footer-section">
+                <h3>Kövess minket</h3>
+                <div class="social-icons">
+                    <a href="https://www.facebook.com/adam.pinter.169" target="_blank"><img src="resources/svg/facebook.svg" alt="Facebook"></a>
+                    <a href="https://www.instagram.com/pntradam/" target="_blank"><img src="resources/svg/instagram.svg" alt="Instagram"></a>
+                    <a href="https://discordapp.com/users/423133620094500864" target="_blank"><img src="resources/svg/discord.svg" alt="Discord"></a>
+                </div>
+            </div>
+        </div>
+        <p class="footer-bottom">© 2025 Webshop. Minden jog fenntartva.</p>
+    </footer>
+
+    <script src="../javascript/community.js"></script>
+    <script src="../javascript/menu.js"></script>
+</body>
+</html>
