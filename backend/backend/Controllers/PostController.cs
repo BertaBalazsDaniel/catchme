@@ -169,7 +169,7 @@ namespace backend.Controllers
             _model.Posts.Remove(post);
             _model.SaveChanges();
 
-            return StatusCode(HttpStatusCode.NoContent);
+            return Ok(new { message = "Poszt sikeresen törölve!" });
         }
     }
 }

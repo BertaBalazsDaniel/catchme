@@ -106,7 +106,7 @@ namespace backend.Controllers
             _model.CartItems.RemoveRange(userCartItems);
             _model.SaveChanges();
 
-            return StatusCode(HttpStatusCode.NoContent);
+            return Ok(new { message = "Kosár sikeresen törölve!" });
         }
     }
 }

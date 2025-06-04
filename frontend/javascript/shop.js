@@ -85,6 +85,23 @@ async function fetchJson(url,method = 'GET', options){
     }
 }
 
+async function loadMoreProducts() {
+    currentPage++;
+    const response = await fetchFilteredProducts(selectedFilters, currentPage, productsPerPage);
+
+    if (!response.products || response.products.length === 0) {
+        document.getElementById('loadMoreBtn').style.display = 'none';
+        return;
+    }
+
+    totalProducts = response.totalCount;
+    productsData = [...productsData, ...response.products];
+
+    renderProducts(response.products, true);
+
+    updateLoadMoreButton();
+}
+
 function renderProducts(newProducts, append = false) {
     const grid = document.getElementById('productGrid');
     if (!append) grid.innerHTML = '';
@@ -119,24 +136,6 @@ function renderProducts(newProducts, append = false) {
     else{
         grid.innerHTML = `<p>Nem található termék</p>`;
     }
-}
-
-async function loadMoreProducts() {
-    currentPage++;
-    const response = await fetchFilteredProducts(selectedFilters, currentPage, productsPerPage);
-
-    if (!response.products || response.products.length === 0) {
-        document.getElementById('loadMoreBtn').style.display = 'none';
-        return;
-    }
-
-    totalProducts = response.totalCount;
-    productsData = [...productsData, ...response.products];
-
-    renderProducts(response.products, true);
-
-
-    updateLoadMoreButton();
 }
 
 function updateLoadMoreButton() {

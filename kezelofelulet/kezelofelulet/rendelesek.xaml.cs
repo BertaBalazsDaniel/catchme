@@ -164,44 +164,6 @@ namespace kezelofelulet
             fizstatusz.SelectedIndex = -1;
         }
 
-        private void mod_Click(object sender, RoutedEventArgs e)
-        {
-            if (listView.SelectedItem is Order item)
-            {
-                using (var ctx = new Context())
-                {
-                    var rendeles = ctx.Orders.FirstOrDefault(x => x.Id == item.Id);
-
-                    if (rendeles != null)
-                    {
-                        try
-                        {
-                            rendeles.FullName = userBox.Text;
-                            rendeles.Email = emailbox.Text;
-                            rendeles.AddressLine = cimBox.Text;
-                            rendeles.PhoneNumber = telBox.Text;
-                            rendeles.OrderDate = orderTimeBox.Text;
-                            rendeles.TotalAmount = int.Parse(amountBox.Text);
-                            rendeles.OrderStatus = EnumHelper.GetEnumDescription(
-                                EnumHelper.GetEnumValueFromDescription<OrderStatuses>(rendstatusz.SelectedItem.ToString())
-                            );
-                            rendeles.PaymentStatus = EnumHelper.GetEnumDescription(
-                                EnumHelper.GetEnumValueFromDescription<PaymentStatuses>(fizstatusz.SelectedItem.ToString())
-                            );
-                            rendeles.PayPalTransactionId = transactionid.Text;
-                            ctx.SaveChanges();
-                        }
-                        catch 
-                        {
-                            MessageBox.Show("Hibás email cím!", "Hiba", MessageBoxButton.OK, MessageBoxImage.Warning);
-                        }
-                    }
-                }
-            }
-
-            listviewfel();
-        }
-
         private void del_Click(object sender, RoutedEventArgs e)
         {
             if (listView.SelectedItem is Order item)
@@ -259,6 +221,46 @@ namespace kezelofelulet
             mod.IsEnabled = hasSelection && hasRequiredFields;
             select.IsEnabled = hasSelection;
             del.IsEnabled = hasSelection && !isModified;
+        }
+
+        private void mod_Click(object sender, RoutedEventArgs e)
+        {
+            if (listView.SelectedItem is Order item)
+            {
+                using (var ctx = new Context())
+                {
+                    var rendeles = ctx.Orders.FirstOrDefault(x => x.Id == item.Id);
+
+                    if (rendeles != null)
+                    {
+                        try
+                        {
+                            rendeles.FullName = userBox.Text;
+                            rendeles.Email = emailbox.Text;
+                            rendeles.AddressLine = cimBox.Text;
+                            rendeles.PhoneNumber = telBox.Text;
+                            rendeles.OrderDate = orderTimeBox.Text;
+                            rendeles.TotalAmount = int.Parse(amountBox.Text);
+                            rendeles.OrderStatus = EnumHelper.GetEnumDescription(
+                                EnumHelper.GetEnumValueFromDescription<OrderStatuses>(rendstatusz.SelectedItem.ToString())
+                            );
+                            rendeles.PaymentStatus = EnumHelper.GetEnumDescription(
+                                EnumHelper.GetEnumValueFromDescription<PaymentStatuses>(fizstatusz.SelectedItem.ToString())
+                            );
+                            rendeles.PayPalTransactionId = transactionid.Text;
+                            ctx.SaveChanges();
+
+                            MessageBox.Show("Rendelés sikeresen módosítva!", "Siker", MessageBoxButton.OK, MessageBoxImage.Information);
+                        }
+                        catch
+                        {
+                            MessageBox.Show("Hibás email cím!", "Hiba", MessageBoxButton.OK, MessageBoxImage.Warning);
+                        }
+                    }
+                }
+            }
+
+            listviewfel();
         }
 
         private void rendstatusz_SelectionChanged(object sender, SelectionChangedEventArgs e)

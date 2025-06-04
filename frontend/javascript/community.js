@@ -94,6 +94,13 @@ return response;
     }
 }
 
+async function loadMorePosts() {
+    currentPage++;
+    const response = await fetchJson(`${API_BASE_URL}/post/category/${category}?page=${currentPage}&limit=${postsPerPage}`);
+    postsData.posts = [...postsData.posts, ...response.posts];
+    renderPosts(true);
+}
+
 function renderPosts(append = false) {
     const container = document.getElementById('communityPostContainer');
 
@@ -127,13 +134,6 @@ function renderPosts(append = false) {
 
     document.getElementById('loadMoreBtn').style.display =
         postsData.posts.length < totalPosts ? 'flex' : 'none';
-}
-
-async function loadMorePosts() {
-    currentPage++;
-    const response = await fetchJson(`${API_BASE_URL}/post/category/${category}?page=${currentPage}&limit=${postsPerPage}`);
-    postsData.posts = [...postsData.posts, ...response.posts];
-    renderPosts(true);
 }
 
 function highlightActiveMenu(category) {

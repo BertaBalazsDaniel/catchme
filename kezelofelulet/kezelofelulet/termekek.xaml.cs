@@ -228,6 +228,40 @@ namespace kezelofelulet
             }
         }
 
+        private void del_Click(object sender, RoutedEventArgs e)
+        {
+            using (var ctx = new Context())
+            {
+                var torol = ctx.Products
+                               .FirstOrDefault(x => x.Name == nevBox.Text);
+
+                if (torol != null)
+                {
+                    var fkapcsolodoRekordok = ctx.Favorites.Where(f => f.ProductId == torol.Id);
+                    ctx.Favorites.RemoveRange(fkapcsolodoRekordok);
+
+                    var ckapcsolodoRekordok = ctx.CartItems.Where(c => c.ProductId == torol.Id);
+                    ctx.CartItems.RemoveRange(ckapcsolodoRekordok);
+
+                    var okapcsolodoRekordok = ctx.OrderItems.Where(o => o.ProductId == torol.Id);
+                    ctx.OrderItems.RemoveRange(okapcsolodoRekordok);
+
+                    var pkapcsolodoRekordok = ctx.ProductReviews.Where(p => p.ProductId == torol.Id);
+                    ctx.ProductReviews.RemoveRange(pkapcsolodoRekordok);
+
+                    ctx.Products.Remove(torol);
+                    ctx.SaveChanges();
+                    productimage.Source = null;
+
+                    MessageBox.Show("Termék sikeresen törölve!", "Siker", MessageBoxButton.OK, MessageBoxImage.Information);
+                }
+                else
+                {
+                    MessageBox.Show("A termék nem található!", "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+            listviewfel();
+        }
         private void add_Click(object sender, RoutedEventArgs e)
         {
             using (var ctx = new Context())
@@ -370,40 +404,6 @@ namespace kezelofelulet
             }
         }
 
-        private void del_Click(object sender, RoutedEventArgs e)
-        {
-            using (var ctx = new Context())
-            {
-                var torol = ctx.Products
-                               .FirstOrDefault(x => x.Name == nevBox.Text);
-
-                if (torol != null)
-                {
-                    var fkapcsolodoRekordok = ctx.Favorites.Where(f => f.ProductId == torol.Id);
-                    ctx.Favorites.RemoveRange(fkapcsolodoRekordok);
-
-                    var ckapcsolodoRekordok = ctx.CartItems.Where(c => c.ProductId == torol.Id);
-                    ctx.CartItems.RemoveRange(ckapcsolodoRekordok);
-
-                    var okapcsolodoRekordok = ctx.OrderItems.Where(o => o.ProductId == torol.Id);
-                    ctx.OrderItems.RemoveRange(okapcsolodoRekordok);
-
-                    var pkapcsolodoRekordok = ctx.ProductReviews.Where(p => p.ProductId == torol.Id);
-                    ctx.ProductReviews.RemoveRange(pkapcsolodoRekordok);
-
-                    ctx.Products.Remove(torol);
-                    ctx.SaveChanges();
-
-                    MessageBox.Show("Termék sikeresen törölve!", "Siker", MessageBoxButton.OK, MessageBoxImage.Information);
-                }
-                else
-                {
-                    MessageBox.Show("A termék nem található!", "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);
-                }
-            }
-            listviewfel();
-        }
-
         private void select_Click(object sender, RoutedEventArgs e)
         {
             listView.SelectedIndex = -1;
@@ -456,7 +456,31 @@ namespace kezelofelulet
             }
         }
 
+        private void saveAttribute_Click(object sender, RoutedEventArgs e)
+        {
+            string newKey = tulNevBox.Text.Trim();
+            string newValue = tulErtBox.Text.Trim();
 
+            if (!string.IsNullOrWhiteSpace(newKey) && !string.IsNullOrWhiteSpace(newValue) && attribLista.SelectedItem != null)
+            {
+                string selected = attribLista.SelectedItem.ToString();
+                string originalKey = selected.Split(':')[0].Trim();
+
+                if (originalKey != newKey)
+                {
+                    tempAttrib.Remove(originalKey);
+                }
+
+                tempAttrib[newKey] = newValue;
+
+                attribLista.Items.Remove(selected);
+                attribLista.Items.Add($"{newKey}: {newValue}");
+
+                tulNevBox.Clear();
+                tulErtBox.Clear();
+                attribLista.SelectedIndex = -1;
+            }
+        }
         private void attribLista_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (attribLista.SelectedIndex != -1)
@@ -505,32 +529,6 @@ namespace kezelofelulet
                 attribLista.Items.Remove(selected);
             }
             attrjoe(null, null);
-        }
-
-        private void saveAttribute_Click(object sender, RoutedEventArgs e)
-        {
-            string key = tulNevBox.Text.Trim();
-            string value = tulErtBox.Text.Trim();
-
-            if (!string.IsNullOrWhiteSpace(key) && !string.IsNullOrWhiteSpace(value))
-            {
-                tempAttrib[key] = value;
-
-                var itemsToRemove = attribLista.Items
-                    .Cast<string>()
-                    .Where(item => item.Split(':')[0].Trim() == key)
-                    .ToList();
-
-                foreach (var item in itemsToRemove)
-                {
-                    attribLista.Items.Remove(item);
-                }
-
-                attribLista.Items.Add($"{key}: {value}");
-
-                tulNevBox.Clear();
-                tulErtBox.Clear();
-            }
         }
 
         private void removeAttributeSelection_Click(object sender, RoutedEventArgs e)
